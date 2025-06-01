@@ -33,7 +33,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_stealth_kill_a</Item>
             </aActionResults>
@@ -82,7 +82,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_stealth_kill_a_gardener</Item>
             </aActionResults>
@@ -131,7 +131,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_stealth_kill_b</Item>
             </aActionResults>
@@ -180,7 +180,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_stealth_kill_c</Item>
             </aActionResults>
@@ -229,7 +229,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_stealth_kill_d</Item>
             </aActionResults>
@@ -425,7 +425,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_failed_takedown_front</Item>
             </aActionResults>
@@ -621,7 +621,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_failed_takedown_rear</Item>
             </aActionResults>
@@ -716,7 +716,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_front_psycho</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -799,7 +799,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_front_psycho_b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -882,7 +882,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_front_psycho_c</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -965,7 +965,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_rear_psycho</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -1048,7 +1048,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_rear_psycho_b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -1232,7 +1232,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_front_a</Item>
             </aActionResults>
@@ -1281,7 +1281,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_front_b</Item>
             </aActionResults>
@@ -1379,7 +1379,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_front_c</Item>
             </aActionResults>
@@ -1477,7 +1477,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_front_d</Item>
             </aActionResults>
@@ -1526,7 +1526,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_front_e</Item>
             </aActionResults>
@@ -1575,7 +1575,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_front_g</Item>
             </aActionResults>
@@ -1624,7 +1624,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_front_h</Item>
             </aActionResults>
@@ -1673,7 +1673,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_front_psycho</Item>
             </aActionResults>
@@ -1722,7 +1722,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_front_psycho_b</Item>
             </aActionResults>
@@ -1771,7 +1771,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_front_psycho_c</Item>
             </aActionResults>
@@ -2030,6 +2030,104 @@
         <Item type="CWeaponActionResult">
           <WeaponType>RWT_ANY</WeaponType>
           <ActionResult>AR_hitby_takedown_front_hatchet_b</ActionResult>
+        </Item>
+      </aWeaponActionResults>
+    </Item>
+	<Item type="CActionDefinition">
+      <Debug value="false" />
+      <Name>ACT_hitby_takedown_front_machete</Name>
+      <aBrawlingStyles>
+        <Item>BS_AI</Item>
+        <Item>BS_MICHAEL</Item>
+        <Item>BS_TREVOR</Item>
+        <Item>BS_FRANKLIN</Item>
+      </aBrawlingStyles>
+      <Priority value="900" />
+      <SelectionRouletteBias value="1" />
+      <ActionType>AT_HIT_REACTION</ActionType>
+      <SelfFilter>PAFT_ANY</SelfFilter>
+      <TargetEntity>TET_BIPED</TargetEntity>
+      <MovementSpeed>MS_ANY</MovementSpeed>
+      <DesiredDirection>DD_ANY</DesiredDirection>
+      <DefinitionAttrs>DA_IS_ENABLED DA_PLAYER_ENTRY_ACTION DA_AI_ENTRY_ACTION DA_REQUIRE_TARGET</DefinitionAttrs>
+      <ImpulseTest />
+      <MaxImpulseTestDelay value="0" />
+      <InterrelationTest />
+      <aCondSpecials />
+      <CondPedOther>
+        <SelfFilter>PAFT_ANY</SelfFilter>
+        <aBrawlingStyles>
+          <Item>BS_AI</Item>
+          <Item>BS_MICHAEL</Item>
+          <Item>BS_TREVOR</Item>
+          <Item>BS_FRANKLIN</Item>
+        </aBrawlingStyles>
+        <aCondSpecials />
+        <aWeaponActionResultList>
+          <Item type="CWeaponActionResultList">
+            <WeaponType>RWT_MACHETE</WeaponType>
+            <aActionResults>
+              <Item>AR_takedown_front_machete_a</Item>
+            </aActionResults>
+          </Item>
+        </aWeaponActionResultList>
+        <CheckAnimTime value="false" />
+        <MovementSpeed>MS_ANY</MovementSpeed>
+        <InterrelationTest />
+      </CondPedOther>
+      <aWeaponActionResults>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_ANY</WeaponType>
+          <ActionResult>AR_hitby_takedown_front_machete_a</ActionResult>
+        </Item>
+      </aWeaponActionResults>
+    </Item>
+	<Item type="CActionDefinition">
+      <Debug value="false" />
+      <Name>ACT_hitby_takedown_front_machete_b</Name>
+      <aBrawlingStyles>
+        <Item>BS_AI</Item>
+        <Item>BS_MICHAEL</Item>
+        <Item>BS_TREVOR</Item>
+        <Item>BS_FRANKLIN</Item>
+      </aBrawlingStyles>
+      <Priority value="900" />
+      <SelectionRouletteBias value="1" />
+      <ActionType>AT_HIT_REACTION</ActionType>
+      <SelfFilter>PAFT_ANY</SelfFilter>
+      <TargetEntity>TET_BIPED</TargetEntity>
+      <MovementSpeed>MS_ANY</MovementSpeed>
+      <DesiredDirection>DD_ANY</DesiredDirection>
+      <DefinitionAttrs>DA_IS_ENABLED DA_PLAYER_ENTRY_ACTION DA_AI_ENTRY_ACTION DA_REQUIRE_TARGET</DefinitionAttrs>
+      <ImpulseTest />
+      <MaxImpulseTestDelay value="0" />
+      <InterrelationTest />
+      <aCondSpecials />
+      <CondPedOther>
+        <SelfFilter>PAFT_ANY</SelfFilter>
+        <aBrawlingStyles>
+          <Item>BS_AI</Item>
+          <Item>BS_MICHAEL</Item>
+          <Item>BS_TREVOR</Item>
+          <Item>BS_FRANKLIN</Item>
+        </aBrawlingStyles>
+        <aCondSpecials />
+        <aWeaponActionResultList>
+          <Item type="CWeaponActionResultList">
+            <WeaponType>RWT_MACHETE</WeaponType>
+            <aActionResults>
+              <Item>AR_takedown_front_machete_b</Item>
+            </aActionResults>
+          </Item>
+        </aWeaponActionResultList>
+        <CheckAnimTime value="false" />
+        <MovementSpeed>MS_ANY</MovementSpeed>
+        <InterrelationTest />
+      </CondPedOther>
+      <aWeaponActionResults>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_ANY</WeaponType>
+          <ActionResult>AR_hitby_takedown_front_machete_b</ActionResult>
         </Item>
       </aWeaponActionResults>
     </Item>
@@ -2304,7 +2402,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_rear</Item>
             </aActionResults>
@@ -2419,6 +2517,104 @@
         </Item>
       </aWeaponActionResults>
     </Item>
+	<Item type="CActionDefinition">
+      <Debug value="false" />
+      <Name>ACT_hitby_takedown_rear_machete</Name>
+      <aBrawlingStyles>
+        <Item>BS_AI</Item>
+        <Item>BS_MICHAEL</Item>
+        <Item>BS_TREVOR</Item>
+        <Item>BS_FRANKLIN</Item>
+      </aBrawlingStyles>
+      <Priority value="900" />
+      <SelectionRouletteBias value="1" />
+      <ActionType>AT_HIT_REACTION</ActionType>
+      <SelfFilter>PAFT_ANY</SelfFilter>
+      <TargetEntity>TET_BIPED</TargetEntity>
+      <MovementSpeed>MS_ANY</MovementSpeed>
+      <DesiredDirection>DD_ANY</DesiredDirection>
+      <DefinitionAttrs>DA_IS_ENABLED DA_PLAYER_ENTRY_ACTION DA_AI_ENTRY_ACTION DA_REQUIRE_TARGET</DefinitionAttrs>
+      <ImpulseTest />
+      <MaxImpulseTestDelay value="0" />
+      <InterrelationTest />
+      <aCondSpecials />
+      <CondPedOther>
+        <SelfFilter>PAFT_ANY</SelfFilter>
+        <aBrawlingStyles>
+          <Item>BS_AI</Item>
+          <Item>BS_MICHAEL</Item>
+          <Item>BS_TREVOR</Item>
+          <Item>BS_FRANKLIN</Item>
+        </aBrawlingStyles>
+        <aCondSpecials />
+        <aWeaponActionResultList>
+          <Item type="CWeaponActionResultList">
+            <WeaponType>RWT_MACHETE</WeaponType>
+            <aActionResults>
+              <Item>AR_takedown_rear_machete_a</Item>
+            </aActionResults>
+          </Item>
+        </aWeaponActionResultList>
+        <CheckAnimTime value="false" />
+        <MovementSpeed>MS_ANY</MovementSpeed>
+        <InterrelationTest />
+      </CondPedOther>
+      <aWeaponActionResults>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_ANY</WeaponType>
+          <ActionResult>AR_hitby_takedown_rear_machete_a</ActionResult>
+        </Item>
+      </aWeaponActionResults>
+    </Item>
+	<Item type="CActionDefinition">
+      <Debug value="false" />
+      <Name>ACT_hitby_takedown_rear_machete_b</Name>
+      <aBrawlingStyles>
+        <Item>BS_AI</Item>
+        <Item>BS_MICHAEL</Item>
+        <Item>BS_TREVOR</Item>
+        <Item>BS_FRANKLIN</Item>
+      </aBrawlingStyles>
+      <Priority value="900" />
+      <SelectionRouletteBias value="1" />
+      <ActionType>AT_HIT_REACTION</ActionType>
+      <SelfFilter>PAFT_ANY</SelfFilter>
+      <TargetEntity>TET_BIPED</TargetEntity>
+      <MovementSpeed>MS_ANY</MovementSpeed>
+      <DesiredDirection>DD_ANY</DesiredDirection>
+      <DefinitionAttrs>DA_IS_ENABLED DA_PLAYER_ENTRY_ACTION DA_AI_ENTRY_ACTION DA_REQUIRE_TARGET</DefinitionAttrs>
+      <ImpulseTest />
+      <MaxImpulseTestDelay value="0" />
+      <InterrelationTest />
+      <aCondSpecials />
+      <CondPedOther>
+        <SelfFilter>PAFT_ANY</SelfFilter>
+        <aBrawlingStyles>
+          <Item>BS_AI</Item>
+          <Item>BS_MICHAEL</Item>
+          <Item>BS_TREVOR</Item>
+          <Item>BS_FRANKLIN</Item>
+        </aBrawlingStyles>
+        <aCondSpecials />
+        <aWeaponActionResultList>
+          <Item type="CWeaponActionResultList">
+            <WeaponType>RWT_MACHETE</WeaponType>
+            <aActionResults>
+              <Item>AR_takedown_rear_machete_b</Item>
+            </aActionResults>
+          </Item>
+        </aWeaponActionResultList>
+        <CheckAnimTime value="false" />
+        <MovementSpeed>MS_ANY</MovementSpeed>
+        <InterrelationTest />
+      </CondPedOther>
+      <aWeaponActionResults>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_ANY</WeaponType>
+          <ActionResult>AR_hitby_takedown_rear_machete_b</ActionResult>
+        </Item>
+      </aWeaponActionResults>
+    </Item>
     <Item type="CActionDefinition">
       <Debug value="false" />
       <Name>ACT_hitby_takedown_rear_b</Name>
@@ -2451,7 +2647,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_rear_b</Item>
             </aActionResults>
@@ -2549,7 +2745,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_rear_c</Item>
             </aActionResults>
@@ -2647,7 +2843,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_rear_psycho</Item>
             </aActionResults>
@@ -2696,7 +2892,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_takedown_rear_psycho_b</Item>
             </aActionResults>
@@ -2843,7 +3039,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+            <WeaponType>RWT_ONE_HANDED_CLUB_NO_HATCHET</WeaponType>
             <aActionResults>
               <Item>AR_takedown_rear_small_wpn</Item>
             </aActionResults>
@@ -3183,7 +3379,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_stealth_kill_a</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -3272,7 +3468,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_stealth_kill_a_gardener</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -3361,7 +3557,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_stealth_kill_b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -3450,7 +3646,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_stealth_kill_c</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -3539,7 +3735,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_stealth_kill_d</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -3639,6 +3835,10 @@
           <WeaponType>RWT_TWO_HANDED_CLUB</WeaponType>
           <ActionResult>AR_stealth_kill_bat</ActionResult>
         </Item>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_MACHETE</WeaponType>
+          <ActionResult>AR_takedown_rear_machete_a</ActionResult>
+        </Item>
       </aWeaponActionResults>
     </Item>
     <Item type="CActionDefinition">
@@ -3735,7 +3935,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_failed_takedown_front</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -3747,7 +3947,7 @@
           <ActionResult>AR_failed_takedown_front_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_failed_takedown_front_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -3846,7 +4046,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_failed_takedown_rear</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -3858,7 +4058,7 @@
           <ActionResult>AR_failed_takedown_rear_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_failed_takedown_rear_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -3942,7 +4142,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_front_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -3956,6 +4156,10 @@
 		<Item type="CWeaponActionResult">
           <WeaponType>RWT_HATCHET</WeaponType>
           <ActionResult>AR_takedown_front_hatchet_a</ActionResult>
+        </Item>
+		<Item type="CWeaponActionResult">
+          <WeaponType>RWT_MACHETE</WeaponType>
+          <ActionResult>AR_takedown_front_machete_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
           <WeaponType>RWT_THROWN</WeaponType>
@@ -4126,12 +4330,16 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_front_b</ActionResult>
         </Item>
 		<Item type="CWeaponActionResult">
           <WeaponType>RWT_HATCHET</WeaponType>
           <ActionResult>AR_takedown_front_hatchet_b</ActionResult>
+        </Item>
+		<Item type="CWeaponActionResult">
+          <WeaponType>RWT_MACHETE</WeaponType>
+          <ActionResult>AR_takedown_front_machete_b</ActionResult>
         </Item>
       </aWeaponActionResults>
     </Item>
@@ -4298,7 +4506,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_front_c</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -4464,7 +4672,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_front_d</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -4548,7 +4756,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_front_e</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -4632,7 +4840,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_front_g</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -4716,7 +4924,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_front_h</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -4879,6 +5087,172 @@
             <SpecialTest>IsInMelee</SpecialTest>
             <Filter>PAFT_ANY</Filter>
             <InvertSense value="true" />
+          </Item>
+        </aCondSpecials>
+        <aWeaponActionResultList />
+        <CheckAnimTime value="false" />
+        <MovementSpeed>MS_ANY</MovementSpeed>
+        <InterrelationTest>IRT_front_takedown_armed</InterrelationTest>
+      </CondPedOther>
+      <aWeaponActionResults>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_ONE_HANDED_GUN RWT_PISTOL</WeaponType>
+          <ActionResult>AR_takedown_front_pistol</ActionResult>
+        </Item>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_TWO_HANDED_GUN</WeaponType>
+          <ActionResult>AR_takedown_front_rifle</ActionResult>
+        </Item>
+      </aWeaponActionResults>
+    </Item>
+	<Item type="CActionDefinition">
+      <Debug value="false" />
+      <Name>ACT_takedown_front_armed_long_vs_ai</Name>
+      <aBrawlingStyles>
+        <Item>BS_AI</Item>
+        <Item>BS_MICHAEL</Item>
+        <Item>BS_TREVOR</Item>
+        <Item>BS_FRANKLIN</Item>
+      </aBrawlingStyles>
+      <Priority value="800" />
+      <SelectionRouletteBias value="1" />
+      <ActionType>AT_FROM_ON_FOOT AT_MELEE</ActionType>
+      <SelfFilter>PAFT_PLAYER_SP PAFT_PLAYER_MP</SelfFilter>
+      <TargetEntity>TET_BIPED</TargetEntity>
+      <MovementSpeed>MS_ANY</MovementSpeed>
+      <DesiredDirection>DD_ANY</DesiredDirection>
+      <DefinitionAttrs>DA_IS_ENABLED DA_PLAYER_ENTRY_ACTION DA_AI_ENTRY_ACTION DA_REQUIRE_TARGET</DefinitionAttrs>
+      <ImpulseTest>IT_light</ImpulseTest>
+      <MaxImpulseTestDelay value="0" />
+      <InterrelationTest>IRT_front_takedown</InterrelationTest>
+      <aCondSpecials>
+        <Item type="CActionCondSpecial">
+          <SpecialTest>CanPerformCloseQuarterKill</SpecialTest>
+          <Filter>PAFT_ANY</Filter>
+          <InvertSense value="false" />
+        </Item>
+        <Item type="CActionCondSpecial">
+          <SpecialTest>TargetCollisionProbeTest</SpecialTest>
+          <Filter>PAFT_ANY</Filter>
+          <InvertSense value="false" />
+        </Item>
+      </aCondSpecials>
+      <CondPedOther>
+        <SelfFilter>PAFT_AI</SelfFilter>
+        <aBrawlingStyles>
+          <Item>BS_AI</Item>
+          <Item>BS_MICHAEL</Item>
+          <Item>BS_TREVOR</Item>
+          <Item>BS_FRANKLIN</Item>
+        </aBrawlingStyles>
+        <aCondSpecials>
+          <Item type="CActionCondSpecial">
+            <SpecialTest>IsDead</SpecialTest>
+            <Filter>PAFT_ANY</Filter>
+            <InvertSense value="true" />
+          </Item>
+          <Item type="CActionCondSpecial">
+            <SpecialTest>IsOnFoot</SpecialTest>
+            <Filter>PAFT_ANY</Filter>
+            <InvertSense value="false" />
+          </Item>
+          <Item type="CActionCondSpecial">
+            <SpecialTest>IsUsingRagdoll</SpecialTest>
+            <Filter>PAFT_ANY</Filter>
+            <InvertSense value="true" />
+          </Item>
+          <Item type="CActionCondSpecial">
+            <SpecialTest>IsFriendly</SpecialTest>
+            <Filter>PAFT_ANY</Filter>
+            <InvertSense value="true" />
+          </Item>
+          <Item type="CActionCondSpecial">
+            <SpecialTest>CanBeTakenDown</SpecialTest>
+            <Filter>PAFT_ANY</Filter>
+            <InvertSense value="false" />
+          </Item>
+        </aCondSpecials>
+        <aWeaponActionResultList />
+        <CheckAnimTime value="false" />
+        <MovementSpeed>MS_ANY</MovementSpeed>
+        <InterrelationTest>IRT_front_takedown</InterrelationTest>
+      </CondPedOther>
+      <aWeaponActionResults>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_ONE_HANDED_GUN RWT_PISTOL</WeaponType>
+          <ActionResult>AR_takedown_front_pistol</ActionResult>
+        </Item>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_TWO_HANDED_GUN</WeaponType>
+          <ActionResult>AR_takedown_front_rifle</ActionResult>
+        </Item>
+      </aWeaponActionResults>
+    </Item>
+    <Item type="CActionDefinition">
+      <Debug value="false" />
+      <Name>ACT_takedown_front_armed_short_vs_ai</Name>
+      <aBrawlingStyles>
+        <Item>BS_AI</Item>
+        <Item>BS_MICHAEL</Item>
+        <Item>BS_TREVOR</Item>
+        <Item>BS_FRANKLIN</Item>
+      </aBrawlingStyles>
+      <Priority value="800" />
+      <SelectionRouletteBias value="1" />
+      <ActionType>AT_FROM_ON_FOOT AT_MELEE</ActionType>
+      <SelfFilter>PAFT_PLAYER_SP PAFT_PLAYER_MP</SelfFilter>
+      <TargetEntity>TET_BIPED</TargetEntity>
+      <MovementSpeed>MS_ANY</MovementSpeed>
+      <DesiredDirection>DD_ANY</DesiredDirection>
+      <DefinitionAttrs>DA_IS_ENABLED DA_PLAYER_ENTRY_ACTION DA_AI_ENTRY_ACTION DA_REQUIRE_TARGET</DefinitionAttrs>
+      <ImpulseTest>IT_weapon_fire</ImpulseTest>
+      <MaxImpulseTestDelay value="0" />
+      <InterrelationTest>IRT_front_takedown_armed</InterrelationTest>
+      <aCondSpecials>
+        <Item type="CActionCondSpecial">
+          <SpecialTest>CanPerformCloseQuarterKill</SpecialTest>
+          <Filter>PAFT_ANY</Filter>
+          <InvertSense value="false" />
+        </Item>
+        <Item type="CActionCondSpecial">
+          <SpecialTest>TargetCollisionProbeTest</SpecialTest>
+          <Filter>PAFT_ANY</Filter>
+          <InvertSense value="false" />
+        </Item>
+      </aCondSpecials>
+      <CondPedOther>
+        <SelfFilter>PAFT_AI</SelfFilter>
+        <aBrawlingStyles>
+          <Item>BS_AI</Item>
+          <Item>BS_MICHAEL</Item>
+          <Item>BS_TREVOR</Item>
+          <Item>BS_FRANKLIN</Item>
+        </aBrawlingStyles>
+        <aCondSpecials>
+          <Item type="CActionCondSpecial">
+            <SpecialTest>IsDead</SpecialTest>
+            <Filter>PAFT_ANY</Filter>
+            <InvertSense value="true" />
+          </Item>
+          <Item type="CActionCondSpecial">
+            <SpecialTest>IsOnFoot</SpecialTest>
+            <Filter>PAFT_ANY</Filter>
+            <InvertSense value="false" />
+          </Item>
+          <Item type="CActionCondSpecial">
+            <SpecialTest>IsUsingRagdoll</SpecialTest>
+            <Filter>PAFT_ANY</Filter>
+            <InvertSense value="true" />
+          </Item>
+          <Item type="CActionCondSpecial">
+            <SpecialTest>IsFriendly</SpecialTest>
+            <Filter>PAFT_ANY</Filter>
+            <InvertSense value="true" />
+          </Item>
+          <Item type="CActionCondSpecial">
+            <SpecialTest>CanBeTakenDown</SpecialTest>
+            <Filter>PAFT_ANY</Filter>
+            <InvertSense value="false" />
           </Item>
         </aCondSpecials>
         <aWeaponActionResultList />
@@ -5138,7 +5512,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_rear</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -5152,6 +5526,10 @@
 		<Item type="CWeaponActionResult">
           <WeaponType>RWT_HATCHET</WeaponType>
           <ActionResult>AR_takedown_rear_hatchet_a</ActionResult>
+        </Item>
+		<Item type="CWeaponActionResult">
+          <WeaponType>RWT_MACHETE</WeaponType>
+          <ActionResult>AR_takedown_rear_machete_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
           <WeaponType>RWT_THROWN</WeaponType>
@@ -5322,12 +5700,16 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_rear_b</ActionResult>
         </Item>
 		<Item type="CWeaponActionResult">
           <WeaponType>RWT_HATCHET</WeaponType>
           <ActionResult>AR_takedown_rear_hatchet_b</ActionResult>
+        </Item>
+		<Item type="CWeaponActionResult">
+          <WeaponType>RWT_MACHETE</WeaponType>
+          <ActionResult>AR_takedown_rear_machete_b</ActionResult>
         </Item>
       </aWeaponActionResults>
     </Item>
@@ -5494,7 +5876,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_takedown_rear_c</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -5953,7 +6335,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_light_finish</Item>
             </aActionResults>
@@ -6002,7 +6384,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_heavy_finish</Item>
             </aActionResults>
@@ -6057,7 +6439,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_shove</Item>
             </aActionResults>
@@ -6083,7 +6465,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_front_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6091,7 +6473,7 @@
           <ActionResult>AR_hitby_front_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_front_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6146,7 +6528,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_shove</Item>
             </aActionResults>
@@ -6172,7 +6554,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_front_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6180,7 +6562,7 @@
           <ActionResult>AR_hitby_front_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_front_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6229,7 +6611,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_shove</Item>
             </aActionResults>
@@ -6255,7 +6637,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_rear_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6263,7 +6645,7 @@
           <ActionResult>AR_hitby_rear_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_rear_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6312,7 +6694,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_shove</Item>
             </aActionResults>
@@ -6338,7 +6720,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_left_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6346,7 +6728,7 @@
           <ActionResult>AR_hitby_left_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_left_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6395,7 +6777,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_shove</Item>
             </aActionResults>
@@ -6421,7 +6803,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_right_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6429,7 +6811,7 @@
           <ActionResult>AR_hitby_right_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_right_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6493,10 +6875,25 @@
             </aActionResults>
           </Item>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+            <WeaponType>RWT_ONE_HANDED_CLUB_NO_HATCHET</WeaponType>
             <aActionResults>
               <Item>AR_forward_medium_small_wpn</Item>
               <Item>AR_forward_short_small_wpn</Item>
+              <Item>AR_rear_left_medium_small_wpn</Item>
+              <Item>AR_rear_left_close_small_wpn</Item>
+              <Item>AR_rear_right_medium_small_wpn</Item>
+              <Item>AR_rear_right_close_small_wpn</Item>
+              <Item>AR_left_close_small_wpn</Item>
+              <Item>AR_left_medium_small_wpn</Item>
+              <Item>AR_right_close_small_wpn</Item>
+              <Item>AR_right_medium_small_wpn</Item>
+            </aActionResults>
+          </Item>
+          <Item type="CWeaponActionResultList">
+            <WeaponType>RWT_MACHETE RWT_HATCHET</WeaponType>
+            <aActionResults>
+              <Item>AR_forward_medium_small_wpn</Item>
+              <Item>AR_forward_short_machete</Item>
               <Item>AR_rear_left_medium_small_wpn</Item>
               <Item>AR_rear_left_close_small_wpn</Item>
               <Item>AR_rear_right_medium_small_wpn</Item>
@@ -6648,7 +7045,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_front_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6656,7 +7053,7 @@
           <ActionResult>AR_hitby_front_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_front_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6738,7 +7135,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_rear_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6746,7 +7143,7 @@
           <ActionResult>AR_hitby_rear_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_rear_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6828,7 +7225,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_left_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6836,7 +7233,7 @@
           <ActionResult>AR_hitby_left_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_left_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6918,7 +7315,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_right_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -6926,7 +7323,7 @@
           <ActionResult>AR_hitby_right_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_right_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7008,7 +7405,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_front_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7016,7 +7413,7 @@
           <ActionResult>AR_hitby_front_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_front_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7090,7 +7487,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_rear_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7098,7 +7495,7 @@
           <ActionResult>AR_hitby_rear_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_rear_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7499,7 +7896,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_counter_left</Item>
             </aActionResults>
@@ -7511,7 +7908,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_unarmed_counter_left_unarmed</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7519,7 +7916,7 @@
           <ActionResult>AR_hitby_unarmed_counter_left_knife</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_unarmed_counter_left_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7572,7 +7969,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_knife_counter_left_unarmed</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7580,7 +7977,7 @@
           <ActionResult>AR_hitby_knife_counter_left_knife</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_knife_counter_left_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7621,7 +8018,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_counter_right</Item>
             </aActionResults>
@@ -7633,7 +8030,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_unarmed_counter_right_unarmed</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7641,7 +8038,7 @@
           <ActionResult>AR_hitby_unarmed_counter_right_knife</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_unarmed_counter_right_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7694,7 +8091,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_knife_counter_right_unarmed</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7702,7 +8099,7 @@
           <ActionResult>AR_hitby_knife_counter_right_knife</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_knife_counter_right_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7759,7 +8156,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_front_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7767,7 +8164,7 @@
           <ActionResult>AR_hitby_front_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_front_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7844,7 +8241,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_front_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7852,7 +8249,7 @@
           <ActionResult>AR_hitby_front_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_front_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7916,7 +8313,7 @@
           <ActionResult>AR_hitby_front_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_front_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -7972,7 +8369,7 @@
           <ActionResult>AR_hitby_front_melee_bat_var_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_front_melee_small_wpn_var_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8024,7 +8421,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_rear_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8032,7 +8429,7 @@
           <ActionResult>AR_hitby_rear_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_rear_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8084,7 +8481,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_right_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8092,7 +8489,7 @@
           <ActionResult>AR_hitby_right_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_right_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8144,7 +8541,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_left_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8152,7 +8549,7 @@
           <ActionResult>AR_hitby_left_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_left_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8209,7 +8606,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_rear_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8217,7 +8614,7 @@
           <ActionResult>AR_hitby_rear_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_rear_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8294,7 +8691,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_rear_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8302,7 +8699,7 @@
           <ActionResult>AR_hitby_rear_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_rear_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8367,7 +8764,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_left_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8375,7 +8772,7 @@
           <ActionResult>AR_hitby_left_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_left_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8440,7 +8837,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_left_no_melee_moving</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8448,7 +8845,7 @@
           <ActionResult>AR_hitby_left_no_melee_moving_knife</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_left_no_melee_moving_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8574,7 +8971,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_left_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8582,7 +8979,7 @@
           <ActionResult>AR_hitby_left_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_left_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8647,7 +9044,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_right_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8655,7 +9052,7 @@
           <ActionResult>AR_hitby_right_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_right_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8720,7 +9117,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_right_no_melee_moving</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8728,7 +9125,7 @@
           <ActionResult>AR_hitby_right_no_melee_moving_knife</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_right_no_melee_moving_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8854,7 +9251,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST RWT_THROWN RWT_THROWN_SPECIAL</WeaponType>
           <ActionResult>AR_hitby_right_no_melee</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8862,7 +9259,7 @@
           <ActionResult>AR_hitby_right_no_melee_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_right_no_melee_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -8965,9 +9362,10 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_heavy_1a</Item>
+			  <Item>AR_heavy_1a_melee_fist</Item>
             </aActionResults>
           </Item>
         </aWeaponActionResultList>
@@ -8977,7 +9375,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_heavy_1a</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -9020,9 +9418,10 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_heavy_1b</Item>
+			  <Item>AR_heavy_1b_melee_fist</Item>
             </aActionResults>
           </Item>
         </aWeaponActionResultList>
@@ -9032,7 +9431,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_heavy_1b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -9075,9 +9474,10 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_heavy_2a</Item>
+			  <Item>AR_heavy_2a_melee_fist</Item>
             </aActionResults>
           </Item>
         </aWeaponActionResultList>
@@ -9087,7 +9487,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_heavy_2a</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -9130,9 +9530,10 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_heavy_2b</Item>
+			  <Item>AR_heavy_2b_melee_fist</Item>
             </aActionResults>
           </Item>
         </aWeaponActionResultList>
@@ -9142,7 +9543,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_heavy_2b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -9185,9 +9586,10 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_heavy_2c</Item>
+			  <Item>AR_heavy_2c_melee_fist</Item>
             </aActionResults>
           </Item>
         </aWeaponActionResultList>
@@ -9197,7 +9599,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_heavy_2c</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -9240,7 +9642,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_heavy_3a</Item>
             </aActionResults>
@@ -9252,7 +9654,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_heavy_3a</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -9295,7 +9697,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_heavy_3b</Item>
             </aActionResults>
@@ -9307,7 +9709,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_heavy_3b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -9355,7 +9757,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_daze_a</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -9403,7 +9805,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_daze_b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -9451,7 +9853,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_daze_c</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -9499,7 +9901,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_daze_d</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -9554,7 +9956,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_walking</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -9707,7 +10109,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_kick_close</Item>
               <Item>AR_kick_close_b</Item>
@@ -9716,12 +10118,12 @@
           <Item type="CWeaponActionResultList">
             <WeaponType>RWT_KNIFE</WeaponType>
             <aActionResults>
-              <Item>AR_takedown_front_knife</Item>
-              <Item>AR_takedown_front_knife_c</Item>
+              <Item>AR_kick_close_knife</Item>
+              <Item>AR_kick_close_knife_b</Item>
             </aActionResults>
           </Item>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+            <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
             <aActionResults>
               <Item>AR_kick_close_small_wpn</Item>
               <Item>AR_kick_close_small_wpn_b</Item>
@@ -9741,11 +10143,11 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_kick_close_var_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_kick_close_small_wpn_var_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -9796,7 +10198,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_kick_close</Item>
               <Item>AR_kick_close_b</Item>
@@ -9805,12 +10207,12 @@
           <Item type="CWeaponActionResultList">
             <WeaponType>RWT_KNIFE</WeaponType>
             <aActionResults>
-              <Item>AR_takedown_front_knife</Item>
-              <Item>AR_takedown_front_knife_c</Item>
+              <Item>AR_kick_close_knife</Item>
+              <Item>AR_kick_close_knife_b</Item>
             </aActionResults>
           </Item>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+            <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
             <aActionResults>
               <Item>AR_kick_close_small_wpn</Item>
               <Item>AR_kick_close_small_wpn_b</Item>
@@ -9830,11 +10232,11 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_hitby_kick_close_var_b</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_hitby_kick_close_small_wpn_var_b</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -9885,7 +10287,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_forward_medium</Item>
             </aActionResults>
@@ -9940,7 +10342,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_forward_short</Item>
             </aActionResults>
@@ -9995,7 +10397,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_rear_left_close</Item>
               <Item>AR_rear_right_close</Item>
@@ -10053,7 +10455,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_right_close</Item>
               <Item>AR_right_medium</Item>
@@ -10109,7 +10511,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_left_close</Item>
               <Item>AR_left_medium</Item>
@@ -10288,11 +10690,11 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_counter_left</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_counter_left_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -10364,11 +10766,11 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_counter_right</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_counter_right_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -10419,9 +10821,10 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_forward_short</Item>
+			  <Item>AR_forward_short_melee_fist</Item>
               <Item>AR_forward_medium</Item>
               <Item>AR_rear_left_medium</Item>
               <Item>AR_rear_left_close</Item>
@@ -10435,6 +10838,8 @@
               <Item>AR_right_close</Item>
               <Item>AR_heavy_1a</Item>
               <Item>AR_heavy_1b</Item>
+			  <Item>AR_heavy_1a_melee_fist</Item>
+              <Item>AR_heavy_1b_melee_fist</Item>
               <Item>AR_kick_close</Item>
               <Item>AR_kick_close_b</Item>
             </aActionResults>
@@ -10458,7 +10863,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_dodge_left</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -10466,7 +10871,7 @@
           <ActionResult>AR_dodge_left</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_dodge_left</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -10513,10 +10918,12 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_heavy_2a</Item>
               <Item>AR_heavy_2b</Item>
+			  <Item>AR_heavy_2a_melee_fist</Item>
+			  <Item>AR_heavy_2b_melee_fist</Item>
               <Item>AR_forward_close_mid</Item>
               <Item>AR_right_close_mid</Item>
               <Item>AR_left_close_mid</Item>
@@ -10536,8 +10943,8 @@
               <Item>AR_left_medium_knife</Item>
               <Item>AR_right_close_knife</Item>
               <Item>AR_right_medium_knife</Item>
-              <Item>AR_takedown_front_knife</Item>
-              <Item>AR_takedown_front_knife_c</Item>
+              <Item>AR_kick_close_knife</Item>
+              <Item>AR_kick_close_knife_b</Item>
               <Item>AR_forward_close_knife_mid</Item>
               <Item>AR_right_close_knife_mid</Item>
               <Item>AR_left_close_knife_mid</Item>
@@ -10568,10 +10975,32 @@
             </aActionResults>
           </Item>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+            <WeaponType>RWT_ONE_HANDED_CLUB_NO_HATCHET</WeaponType>
             <aActionResults>
               <Item>AR_forward_medium_small_wpn</Item>
               <Item>AR_forward_short_small_wpn</Item>
+              <Item>AR_rear_left_medium_small_wpn</Item>
+              <Item>AR_rear_left_close_small_wpn</Item>
+              <Item>AR_rear_right_medium_small_wpn</Item>
+              <Item>AR_rear_right_close_small_wpn</Item>
+              <Item>AR_left_close_small_wpn</Item>
+              <Item>AR_left_medium_small_wpn</Item>
+              <Item>AR_right_close_small_wpn</Item>
+              <Item>AR_right_medium_small_wpn</Item>
+              <Item>AR_kick_close_small_wpn</Item>
+              <Item>AR_kick_close_small_wpn_b</Item>
+              <Item>AR_forward_close_small_wpn_mid</Item>
+              <Item>AR_right_close_small_wpn_mid</Item>
+              <Item>AR_left_close_small_wpn_mid</Item>
+              <Item>AR_rear_left_close_small_wpn_mid</Item>
+              <Item>AR_rear_right_close_small_wpn_mid</Item>
+            </aActionResults>
+          </Item>
+          <Item type="CWeaponActionResultList">
+            <WeaponType>RWT_MACHETE RWT_HATCHET</WeaponType>
+            <aActionResults>
+              <Item>AR_forward_medium_small_wpn</Item>
+              <Item>AR_forward_short_machete</Item>
               <Item>AR_rear_left_medium_small_wpn</Item>
               <Item>AR_rear_left_close_small_wpn</Item>
               <Item>AR_rear_right_medium_small_wpn</Item>
@@ -10596,7 +11025,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_dodge_right</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -10604,7 +11033,7 @@
           <ActionResult>AR_dodge_right</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_dodge_right</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -10645,9 +11074,10 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_heavy_2c</Item>
+			  <Item>AR_heavy_2c_melee_fist</Item>
               <Item>AR_heavy_3a</Item>
               <Item>AR_rear_right_medium</Item>
               <Item>AR_right_medium</Item>
@@ -10662,7 +11092,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_heavy_recoil_left</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -10699,7 +11129,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_forward_short</Item>
               <Item>AR_forward_short_no_target</Item>
@@ -10710,8 +11140,12 @@
               <Item>AR_walking_no_target</Item>
               <Item>AR_heavy_1a</Item>
               <Item>AR_heavy_1b</Item>
+			  <Item>AR_heavy_1a_melee_fist</Item>
+              <Item>AR_heavy_1b_melee_fist</Item>
               <Item>AR_heavy_2a</Item>
               <Item>AR_heavy_2b</Item>
+			  <Item>AR_heavy_2a_melee_fist</Item>
+			  <Item>AR_heavy_2b_melee_fist</Item>
               <Item>AR_heavy_3b</Item>
             </aActionResults>
           </Item>
@@ -10722,7 +11156,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_heavy_recoil_right</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -10774,8 +11208,8 @@
               <Item>AR_left_medium_knife</Item>
               <Item>AR_right_close_knife</Item>
               <Item>AR_right_medium_knife</Item>
-              <Item>AR_takedown_front_knife</Item>
-              <Item>AR_takedown_front_knife_c</Item>
+              <Item>AR_kick_close_knife</Item>
+              <Item>AR_kick_close_knife_b</Item>
             </aActionResults>
           </Item>
           <Item type="CWeaponActionResultList">
@@ -10799,13 +11233,33 @@
             </aActionResults>
           </Item>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+            <WeaponType>RWT_ONE_HANDED_CLUB_NO_HATCHET</WeaponType>
             <aActionResults>
               <Item>AR_walking_small_wpn</Item>
               <Item>AR_walking_no_target_small_wpn</Item>
               <Item>AR_running_small_wpn</Item>
               <Item>AR_forward_medium_small_wpn</Item>
               <Item>AR_forward_short_small_wpn</Item>
+              <Item>AR_rear_left_medium_small_wpn</Item>
+              <Item>AR_rear_left_close_small_wpn</Item>
+              <Item>AR_rear_right_medium_small_wpn</Item>
+              <Item>AR_rear_right_close_small_wpn</Item>
+              <Item>AR_left_close_small_wpn</Item>
+              <Item>AR_left_medium_small_wpn</Item>
+              <Item>AR_right_close_small_wpn</Item>
+              <Item>AR_right_medium_small_wpn</Item>
+              <Item>AR_kick_close_small_wpn</Item>
+              <Item>AR_kick_close_small_wpn_b</Item>
+            </aActionResults>
+          </Item>
+          <Item type="CWeaponActionResultList">
+            <WeaponType>RWT_MACHETE RWT_HATCHET</WeaponType>
+            <aActionResults>
+              <Item>AR_walking_machete</Item>
+              <Item>AR_walking_no_target_machete</Item>
+              <Item>AR_running_small_wpn</Item>
+              <Item>AR_forward_medium_small_wpn</Item>
+              <Item>AR_forward_short_machete</Item>
               <Item>AR_rear_left_medium_small_wpn</Item>
               <Item>AR_rear_left_close_small_wpn</Item>
               <Item>AR_rear_right_medium_small_wpn</Item>
@@ -10833,7 +11287,7 @@
           <ActionResult>AR_recoil_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_recoil_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -10870,7 +11324,7 @@
         <aCondSpecials />
         <aWeaponActionResultList>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_UNARMED</WeaponType>
+            <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
             <aActionResults>
               <Item>AR_kick_close</Item>
               <Item>AR_kick_close_b</Item>
@@ -10884,8 +11338,8 @@
           <Item type="CWeaponActionResultList">
             <WeaponType>RWT_KNIFE</WeaponType>
             <aActionResults>
-              <Item>AR_takedown_front_knife</Item>
-              <Item>AR_takedown_front_knife_c</Item>
+              <Item>AR_kick_close_knife</Item>
+              <Item>AR_kick_close_knife_b</Item>
               <Item>AR_forward_close_knife_mid</Item>
               <Item>AR_rear_left_close_knife_mid</Item>
               <Item>AR_rear_right_close_knife_mid</Item>
@@ -10906,7 +11360,7 @@
             </aActionResults>
           </Item>
           <Item type="CWeaponActionResultList">
-            <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+            <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
             <aActionResults>
               <Item>AR_kick_close_small_wpn</Item>
               <Item>AR_kick_close_small_wpn_b</Item>
@@ -10936,7 +11390,7 @@
           <ActionResult>AR_recoil_kick_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_recoil_kick_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -11015,7 +11469,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_light_finish</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -11094,7 +11548,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_heavy_finish</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -11173,7 +11627,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_walking</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -11185,8 +11639,12 @@
           <ActionResult>AR_walking_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB_NO_HATCHET</WeaponType>
           <ActionResult>AR_walking_small_wpn</ActionResult>
+        </Item>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_MACHETE RWT_HATCHET</WeaponType>
+          <ActionResult>AR_walking_machete</ActionResult>
         </Item>
       </aWeaponActionResults>
     </Item>
@@ -11259,7 +11717,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_walking</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -11271,8 +11729,12 @@
           <ActionResult>AR_walking_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB_NO_HATCHET</WeaponType>
           <ActionResult>AR_walking_small_wpn</ActionResult>
+        </Item>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_MACHETE RWT_HATCHET</WeaponType>
+          <ActionResult>AR_walking_machete</ActionResult>
         </Item>
       </aWeaponActionResults>
     </Item>
@@ -11335,7 +11797,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_running</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -11347,7 +11809,7 @@
           <ActionResult>AR_running_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_running_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -11416,7 +11878,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_running_long_range</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -11492,7 +11954,7 @@
           <ActionResult>AR_forward_medium_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_forward_medium_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -11553,8 +12015,12 @@
           <ActionResult>AR_forward_short_surface_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB_NO_HATCHET</WeaponType>
           <ActionResult>AR_forward_short_surface_small_wpn</ActionResult>
+        </Item>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_MACHETE RWT_HATCHET</WeaponType>
+          <ActionResult>AR_forward_short_surface_machete</ActionResult>
         </Item>
       </aWeaponActionResults>
     </Item>
@@ -11606,7 +12072,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_foward_surface_side_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -11614,7 +12080,7 @@
           <ActionResult>AR_foward_surface_side_knife_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_foward_surface_side_small_wpn_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -11671,7 +12137,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_foward_surface_side_b</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -11679,7 +12145,7 @@
           <ActionResult>AR_foward_surface_side_knife_b</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_foward_surface_side_small_wpn_b</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -11736,7 +12202,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_foward_surface_side_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -11744,7 +12210,7 @@
           <ActionResult>AR_foward_surface_side_knife_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_foward_surface_down_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -11796,7 +12262,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_very_close_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -11808,7 +12274,7 @@
           <ActionResult>AR_forward_very_close_bat_low_car</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_forward_very_close_small_wpn_low</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -11950,7 +12416,7 @@
           <ActionResult>AR_running_shove</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_running_shove_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -12037,6 +12503,80 @@
         </Item>
       </aWeaponActionResults>
     </Item>
+	<Item type="CActionDefinition">
+      <Debug value="false" />
+      <Name>ACT_forward_short_melee_fist</Name>
+      <aBrawlingStyles>
+        <Item>BS_AI</Item>
+        <Item>BS_MICHAEL</Item>
+        <Item>BS_TREVOR</Item>
+        <Item>BS_FRANKLIN</Item>
+      </aBrawlingStyles>
+      <Priority value="400" />
+      <SelectionRouletteBias value="1" />
+      <ActionType>AT_FROM_ON_FOOT AT_MELEE</ActionType>
+      <SelfFilter>PAFT_PLAYER_SP PAFT_PLAYER_MP</SelfFilter>
+      <TargetEntity>TET_ANY</TargetEntity>
+      <MovementSpeed>MS_STRAFING MS_STILL MS_WALKING</MovementSpeed>
+      <DesiredDirection>DD_ANY</DesiredDirection>
+      <DefinitionAttrs>DA_IS_ENABLED DA_PLAYER_ENTRY_ACTION DA_AI_ENTRY_ACTION DA_REQUIRE_TARGET</DefinitionAttrs>
+      <ImpulseTest>IT_light_any</ImpulseTest>
+      <MaxImpulseTestDelay value="250" />
+      <InterrelationTest>IRT_standard</InterrelationTest>
+      <aCondSpecials>
+        <Item type="CActionCondSpecial">
+          <SpecialTest>IsInStealthMode</SpecialTest>
+          <Filter>PAFT_PLAYER_SP PAFT_PLAYER_MP</Filter>
+          <InvertSense value="true" />
+        </Item>
+        <Item type="CActionCondSpecial">
+          <SpecialTest>FriendlyTargetTest</SpecialTest>
+          <Filter>PAFT_ANY</Filter>
+          <InvertSense value="false" />
+        </Item>
+        <Item type="CActionCondSpecial">
+          <SpecialTest>TargetCollisionProbeTest</SpecialTest>
+          <Filter>PAFT_ANY</Filter>
+          <InvertSense value="false" />
+        </Item>
+      </aCondSpecials>
+      <CondPedOther>
+        <SelfFilter>PAFT_ANY</SelfFilter>
+        <aBrawlingStyles />
+        <aCondSpecials>
+          <Item type="CActionCondSpecial">
+            <SpecialTest>IsDead</SpecialTest>
+            <Filter>PAFT_ANY</Filter>
+            <InvertSense value="true" />
+          </Item>
+          <Item type="CActionCondSpecial">
+            <SpecialTest>IsOnFoot</SpecialTest>
+            <Filter>PAFT_ANY</Filter>
+            <InvertSense value="false" />
+          </Item>
+          <Item type="CActionCondSpecial">
+            <SpecialTest>IsUsingNm</SpecialTest>
+            <Filter>PAFT_ANY</Filter>
+            <InvertSense value="true" />
+          </Item>
+          <Item type="CActionCondSpecial">
+            <SpecialTest>IsFriendly</SpecialTest>
+            <Filter>PAFT_ANY</Filter>
+            <InvertSense value="true" />
+          </Item>
+        </aCondSpecials>
+        <aWeaponActionResultList />
+        <CheckAnimTime value="false" />
+        <MovementSpeed>MS_STRAFING MS_STILL</MovementSpeed>
+        <InterrelationTest />
+      </CondPedOther>
+      <aWeaponActionResults>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_MELEE_FIST</WeaponType>
+          <ActionResult>AR_forward_short_melee_fist</ActionResult>
+        </Item>
+      </aWeaponActionResults>
+    </Item>	
     <Item type="CActionDefinition">
       <Debug value="false" />
       <Name>ACT_forward_short_armed</Name>
@@ -12119,8 +12659,16 @@
           <ActionResult>AR_forward_short_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB_NO_HATCHET</WeaponType>
           <ActionResult>AR_forward_short_small_wpn</ActionResult>
+        </Item>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_MACHETE RWT_HATCHET</WeaponType>
+          <ActionResult>AR_forward_short_machete</ActionResult>
+        </Item>
+		<Item type="CWeaponActionResult">
+          <WeaponType>RWT_THROWN</WeaponType>
+          <ActionResult>AR_forward_short_thrown</ActionResult>
         </Item>
       </aWeaponActionResults>
     </Item>
@@ -12198,7 +12746,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_medium</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -12280,7 +12828,7 @@
           <ActionResult>AR_forward_medium_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_forward_medium_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -12357,7 +12905,7 @@
           <ActionResult>AR_forward_close_bat_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_forward_close_small_wpn_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -12438,7 +12986,7 @@
           <ActionResult>AR_kick_far_large_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_kick_far_small_wpn</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -12519,7 +13067,7 @@
           <ActionResult>AR_forward_close_bat_mid_running</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_forward_close_small_wpn_mid_running</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -12592,7 +13140,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_rear_left_medium</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -12604,7 +13152,7 @@
           <ActionResult>AR_rear_left_medium_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_rear_left_medium_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -12673,7 +13221,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_rear_left_close_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -12681,7 +13229,7 @@
           <ActionResult>AR_rear_left_close_bat_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_rear_left_close_small_wpn_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -12754,7 +13302,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_rear_right_medium</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -12766,7 +13314,7 @@
           <ActionResult>AR_rear_right_medium_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_rear_right_medium_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -12835,7 +13383,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_rear_right_close_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -12843,7 +13391,7 @@
           <ActionResult>AR_rear_right_close_bat_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_rear_right_close_small_wpn_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -12921,7 +13469,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_rear_left_close</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -12933,7 +13481,7 @@
           <ActionResult>AR_rear_left_close_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_rear_left_close_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -13007,7 +13555,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_rear_right_close</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -13019,7 +13567,7 @@
           <ActionResult>AR_rear_right_close_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_rear_right_close_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -13088,7 +13636,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_left_medium</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -13100,7 +13648,7 @@
           <ActionResult>AR_left_medium_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_left_medium_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -13169,7 +13717,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_left_close_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -13177,7 +13725,7 @@
           <ActionResult>AR_left_close_bat_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_left_close_small_wpn_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -13255,7 +13803,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_left_close</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -13267,7 +13815,7 @@
           <ActionResult>AR_left_close_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_left_close_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -13336,7 +13884,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_right_medium</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -13348,7 +13896,7 @@
           <ActionResult>AR_right_medium_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_right_medium_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -13417,7 +13965,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_right_close_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -13495,7 +14043,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_right_close</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -13507,7 +14055,7 @@
           <ActionResult>AR_right_close_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_right_close_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -13895,7 +14443,7 @@
           <ActionResult>AR_forward_close_knife_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_forward_close_small_wpn_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -13966,7 +14514,7 @@
           <ActionResult>AR_rear_left_close_bat_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_rear_left_close_small_wpn_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -14037,7 +14585,7 @@
           <ActionResult>AR_rear_right_close_bat_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_rear_right_close_small_wpn_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -14108,7 +14656,7 @@
           <ActionResult>AR_left_close_bat_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_left_close_small_wpn_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -14179,7 +14727,7 @@
           <ActionResult>AR_right_close_knife_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_right_close_small_wpn_mid</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -14247,7 +14795,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_medium_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -14259,7 +14807,7 @@
           <ActionResult>AR_forward_medium_bat_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_forward_medium_small_wpn_low</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -14320,7 +14868,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_medium_low_psycho</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -14384,7 +14932,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_medium_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -14396,7 +14944,7 @@
           <ActionResult>AR_forward_medium_bat_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_forward_medium_small_wpn_low</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -14460,7 +15008,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_close_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -14472,7 +15020,7 @@
           <ActionResult>AR_forward_close_bat_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_forward_close_small_wpn_low</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -14531,7 +15079,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_close_low_var_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -14539,7 +15087,7 @@
           <ActionResult>AR_forward_close_knife_low_var_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_forward_close_small_wpn_low_var_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -14602,7 +15150,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_close_low_var_b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -14663,7 +15211,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_close_low_psycho</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -14708,7 +15256,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_dog_forward_close_low</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -14753,7 +15301,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_cougar_forward_close_low</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -14817,7 +15365,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_very_close_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -14829,7 +15377,7 @@
           <ActionResult>AR_forward_very_close_bat_low_body</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_forward_very_close_small_wpn_low</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -14888,7 +15436,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_very_close_low_var_a</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -14953,7 +15501,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_very_close_low_psycho_a</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -15014,7 +15562,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_very_close_low_psycho_b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -15075,7 +15623,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_very_close_low_psycho_c</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -15139,7 +15687,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_rear_left_close_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -15151,7 +15699,7 @@
           <ActionResult>AR_rear_left_close_bat_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_rear_left_close_small_wpn_low</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -15215,7 +15763,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_rear_right_close_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -15227,7 +15775,7 @@
           <ActionResult>AR_rear_right_close_bat_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_rear_right_close_small_wpn_low</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -15291,7 +15839,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_left_close_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -15303,7 +15851,7 @@
           <ActionResult>AR_left_close_bat_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_left_close_small_wpn_low</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -15367,7 +15915,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_right_close_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -15379,7 +15927,7 @@
           <ActionResult>AR_right_close_bat_low</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_right_close_small_wpn_low</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -15427,7 +15975,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_forward_short_no_target</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -15439,8 +15987,12 @@
           <ActionResult>AR_forward_short_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB_NO_HATCHET</WeaponType>
           <ActionResult>AR_forward_short_small_wpn</ActionResult>
+        </Item>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_MACHETE RWT_HATCHET</WeaponType>
+          <ActionResult>AR_forward_short_machete</ActionResult>
         </Item>
       </aWeaponActionResults>
     </Item>
@@ -15641,7 +16193,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_walking_no_target</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -15653,8 +16205,12 @@
           <ActionResult>AR_walking_no_target_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB_NO_HATCHET</WeaponType>
           <ActionResult>AR_walking_no_target_small_wpn</ActionResult>
+        </Item>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_MACHETE RWT_HATCHET</WeaponType>
+          <ActionResult>AR_walking_no_target_machete</ActionResult>
         </Item>
       </aWeaponActionResults>
     </Item>
@@ -15701,7 +16257,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_running_no_target</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -15713,8 +16269,12 @@
           <ActionResult>AR_walking_no_target_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB_NO_HATCHET</WeaponType>
           <ActionResult>AR_walking_no_target_small_wpn</ActionResult>
+        </Item>
+        <Item type="CWeaponActionResult">
+          <WeaponType>RWT_MACHETE RWT_HATCHET</WeaponType>
+          <ActionResult>AR_walking_no_target_machete</ActionResult>
         </Item>
       </aWeaponActionResults>
     </Item>
@@ -15757,7 +16317,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_swim_dive_still_unarmed</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -15849,7 +16409,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_swim_dive_moving_unarmed</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -15941,7 +16501,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_swim_surface_still_unarmed</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -16033,7 +16593,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_swim_surface_moving_unarmed</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
@@ -16148,6 +16708,10 @@
           <WeaponType>RWT_UNARMED</WeaponType>
           <ActionResult>AR_heavy_1a</ActionResult>
         </Item>
+		<Item type="CWeaponActionResult">
+          <WeaponType>RWT_MELEE_FIST</WeaponType>
+          <ActionResult>AR_heavy_1a_melee_fist</ActionResult>
+        </Item>
       </aWeaponActionResults>
     </Item>
     <Item type="CActionDefinition">
@@ -16217,6 +16781,10 @@
           <WeaponType>RWT_UNARMED</WeaponType>
           <ActionResult>AR_heavy_1b</ActionResult>
         </Item>
+		<Item type="CWeaponActionResult">
+          <WeaponType>RWT_MELEE_FIST</WeaponType>
+          <ActionResult>AR_heavy_1b_melee_fist</ActionResult>
+        </Item>
       </aWeaponActionResults>
     </Item>
     <Item type="CActionDefinition">
@@ -16281,6 +16849,10 @@
           <WeaponType>RWT_UNARMED</WeaponType>
           <ActionResult>AR_heavy_2a</ActionResult>
         </Item>
+		<Item type="CWeaponActionResult">
+          <WeaponType>RWT_MELEE_FIST</WeaponType>
+          <ActionResult>AR_heavy_2a_melee_fist</ActionResult>
+        </Item>
       </aWeaponActionResults>
     </Item>
     <Item type="CActionDefinition">
@@ -16339,6 +16911,10 @@
         <Item type="CWeaponActionResult">
           <WeaponType>RWT_UNARMED</WeaponType>
           <ActionResult>AR_heavy_2b</ActionResult>
+        </Item>
+		<Item type="CWeaponActionResult">
+          <WeaponType>RWT_MELEE_FIST</WeaponType>
+          <ActionResult>AR_heavy_2b_melee_fist</ActionResult>
         </Item>
       </aWeaponActionResults>
     </Item>
@@ -16399,6 +16975,10 @@
           <WeaponType>RWT_UNARMED</WeaponType>
           <ActionResult>AR_heavy_2c</ActionResult>
         </Item>
+		<Item type="CWeaponActionResult">
+          <WeaponType>RWT_MELEE_FIST</WeaponType>
+          <ActionResult>AR_heavy_2c_melee_fist</ActionResult>
+        </Item>
       </aWeaponActionResults>
     </Item>
     <Item type="CActionDefinition">
@@ -16455,7 +17035,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_heavy_3a</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -16514,7 +17094,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_heavy_3b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -16679,12 +17259,12 @@
       </aBrawlingStyles>
       <Priority value="200" />
       <SelectionRouletteBias value="1" />
-      <ActionType>AT_MELEE</ActionType>
+      <ActionType>AT_MELEE AT_FROM_ON_FOOT</ActionType>
       <SelfFilter>PAFT_ANY</SelfFilter>
       <TargetEntity>TET_ANY</TargetEntity>
       <MovementSpeed>MS_ANY</MovementSpeed>
       <DesiredDirection>DD_ANY</DesiredDirection>
-      <DefinitionAttrs>DA_IS_ENABLED DA_PLAYER_ENTRY_ACTION DA_AI_ENTRY_ACTION DA_REQUIRE_TARGET DA_REQUIRE_TARGET_LOCK_ON</DefinitionAttrs>
+      <DefinitionAttrs>DA_IS_ENABLED DA_PLAYER_ENTRY_ACTION DA_AI_ENTRY_ACTION DA_REQUIRE_TARGET</DefinitionAttrs>
       <ImpulseTest>IT_light_any</ImpulseTest>
       <MaxImpulseTestDelay value="0" />
       <InterrelationTest>IRT_front_close_no_height</InterrelationTest>
@@ -16781,14 +17361,14 @@
         </Item>
         <Item type="CWeaponActionResult">
           <WeaponType>RWT_KNIFE</WeaponType>
-          <ActionResult>AR_takedown_front_knife_c</ActionResult>
+          <ActionResult>AR_kick_close_knife</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
           <WeaponType>RWT_TWO_HANDED_CLUB</WeaponType>
           <ActionResult>AR_kick_close_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_kick_close_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -16804,10 +17384,10 @@
       </aBrawlingStyles>
       <Priority value="200" />
       <SelectionRouletteBias value="1" />
-      <ActionType>AT_FROM_ON_FOOT AT_MELEE</ActionType>
+      <ActionType>AT_FROM_ON_FOOT AT_MELEE AT_BLOCK AT_HIT_REACTION AT_COUNTER AT_DAZED_HIT_REACTION AT_RECOIL AT_CONDITION AT_INTRO AT_TAUNT</ActionType>
       <SelfFilter>PAFT_ANY</SelfFilter>
       <TargetEntity>TET_ANY</TargetEntity>
-      <MovementSpeed>MS_STRAFING MS_STILL MS_WALKING</MovementSpeed>
+      <MovementSpeed>MS_ANY</MovementSpeed>
       <DesiredDirection>DD_ANY</DesiredDirection>
       <DefinitionAttrs>DA_IS_ENABLED DA_PLAYER_ENTRY_ACTION DA_REQUIRE_TARGET DA_REQUIRE_TARGET_LOCK_ON</DefinitionAttrs>
       <ImpulseTest>IT_heavy_any</ImpulseTest>
@@ -16847,14 +17427,14 @@
         </Item>
         <Item type="CWeaponActionResult">
           <WeaponType>RWT_KNIFE</WeaponType>
-          <ActionResult>AR_takedown_front_knife_c</ActionResult>
+          <ActionResult>AR_takedown_front_knife</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
           <WeaponType>RWT_TWO_HANDED_CLUB</WeaponType>
           <ActionResult>AR_kick_close_bat</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_kick_close_small_wpn</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -16913,14 +17493,14 @@
         </Item>
         <Item type="CWeaponActionResult">
           <WeaponType>RWT_KNIFE</WeaponType>
-          <ActionResult>AR_takedown_front_knife_b</ActionResult>
+          <ActionResult>AR_kick_close_knife_b</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
           <WeaponType>RWT_TWO_HANDED_CLUB</WeaponType>
           <ActionResult>AR_kick_close_bat_b</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_kick_close_small_wpn_b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -16936,10 +17516,10 @@
       </aBrawlingStyles>
       <Priority value="200" />
       <SelectionRouletteBias value="1" />
-      <ActionType>AT_FROM_ON_FOOT AT_MELEE</ActionType>
+      <ActionType>AT_FROM_ON_FOOT AT_MELEE AT_BLOCK AT_HIT_REACTION AT_COUNTER AT_DAZED_HIT_REACTION AT_RECOIL AT_CONDITION AT_INTRO AT_TAUNT</ActionType>
       <SelfFilter>PAFT_ANY</SelfFilter>
       <TargetEntity>TET_ANY</TargetEntity>
-      <MovementSpeed>MS_STRAFING MS_STILL MS_WALKING</MovementSpeed>
+      <MovementSpeed>MS_ANY</MovementSpeed>
       <DesiredDirection>DD_ANY</DesiredDirection>
       <DefinitionAttrs>DA_IS_ENABLED DA_PLAYER_ENTRY_ACTION DA_REQUIRE_TARGET DA_REQUIRE_TARGET_LOCK_ON</DefinitionAttrs>
       <ImpulseTest>IT_heavy_any</ImpulseTest>
@@ -16979,14 +17559,14 @@
         </Item>
         <Item type="CWeaponActionResult">
           <WeaponType>RWT_KNIFE</WeaponType>
-          <ActionResult>AR_takedown_front_knife_b</ActionResult>
+          <ActionResult>AR_takedown_front_knife</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
           <WeaponType>RWT_TWO_HANDED_CLUB</WeaponType>
           <ActionResult>AR_kick_close_bat_b</ActionResult>
         </Item>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_ONE_HANDED_CLUB</WeaponType>
+          <WeaponType>RWT_ONE_HANDED_CLUB RWT_MACHETE</WeaponType>
           <ActionResult>AR_kick_close_small_wpn_b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17045,7 +17625,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_plyr_intro</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17104,7 +17684,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_ai_intro</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17163,7 +17743,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_ai_intro_var_a</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17222,7 +17802,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_ai_intro_var_b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17281,7 +17861,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_ai_intro_var_c</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17345,7 +17925,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_directional_taunt_left</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17409,7 +17989,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_directional_taunt_right</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17478,7 +18058,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_taunt_a</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17547,7 +18127,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_taunt_b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17616,7 +18196,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_taunt_c</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17685,7 +18265,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_taunt_d</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17754,7 +18334,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_taunt_e</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17823,7 +18403,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_taunt_f</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17892,7 +18472,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_taunt_g</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17942,7 +18522,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_dog_taunt_a</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -17987,7 +18567,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_dog_taunt_b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -18032,7 +18612,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_cougar_taunt_a</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -18091,7 +18671,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_support_taunt_a</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -18150,7 +18730,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_support_taunt_b</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -18209,7 +18789,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_support_taunt_c</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -18268,7 +18848,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_support_taunt_d</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -18327,7 +18907,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_support_taunt_e</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -18806,7 +19386,7 @@
       </CondPedOther>
       <aWeaponActionResults>
         <Item type="CWeaponActionResult">
-          <WeaponType>RWT_UNARMED</WeaponType>
+          <WeaponType>RWT_UNARMED RWT_MELEE_FIST</WeaponType>
           <ActionResult>AR_dog_retriever_forward_close_low</ActionResult>
         </Item>
       </aWeaponActionResults>
@@ -18819,12 +19399,12 @@
       </aBrawlingStyles>
       <Priority value="200" />
       <SelectionRouletteBias value="1" />
-      <ActionType>AT_MELEE</ActionType>
+      <ActionType>AT_MELEE AT_FROM_ON_FOOT</ActionType>
       <SelfFilter>PAFT_ANY</SelfFilter>
       <TargetEntity>TET_ANY</TargetEntity>
       <MovementSpeed>MS_ANY</MovementSpeed>
       <DesiredDirection>DD_ANY</DesiredDirection>
-      <DefinitionAttrs>DA_IS_ENABLED DA_PLAYER_ENTRY_ACTION DA_AI_ENTRY_ACTION DA_REQUIRE_TARGET DA_REQUIRE_TARGET_LOCK_ON</DefinitionAttrs>
+      <DefinitionAttrs>DA_IS_ENABLED DA_PLAYER_ENTRY_ACTION DA_AI_ENTRY_ACTION DA_REQUIRE_TARGET</DefinitionAttrs>
       <ImpulseTest>IT_light_any</ImpulseTest>
       <MaxImpulseTestDelay value="0" />
       <InterrelationTest>IRT_front_close_no_height</InterrelationTest>
